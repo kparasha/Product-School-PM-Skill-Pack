@@ -6,7 +6,6 @@ description: >
   /emerging-signals, and any command that produces a prioritized list or an
   Accelerate/Defer/Stop recommendation. Also triggers when someone asks "what should
   we build next", "how do I prioritize this", or "score these against customer data".
-version: 0.1.0
 ---
 
 # Product Prioritization from Customer Feedback

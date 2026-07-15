@@ -6,7 +6,6 @@ description: >
   customer feedback data. Auto-loads when producing output from /prd-evidence,
   /account-brief, /sprint-planning, /roadmap-review, /weekly-memo, or any command
   that turns raw feedback into a product narrative. Core rule: synthesize, never dump.
-version: 0.1.0
 ---
 
 # Customer Evidence Synthesis

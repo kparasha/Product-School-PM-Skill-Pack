@@ -6,7 +6,6 @@ description: >
   escalations. Auto-loads for /escalation-triage, /bug-triage, and /sprint-planning.
   Also triggers when someone asks "how bad is this", "what's the blast radius",
   "is this a P0", or "how many customers are affected".
-version: 0.1.0
 ---
 
 # Severity Classification

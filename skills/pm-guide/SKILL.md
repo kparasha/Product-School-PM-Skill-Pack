@@ -7,7 +7,6 @@ description: >
   question about navigating the feedback-intelligence plugin's capabilities.
   Also triggers when someone asks for help choosing the right command for their
   situation.
-version: 0.1.0
 ---
 
 # PM Feedback Intelligence — Command Guide

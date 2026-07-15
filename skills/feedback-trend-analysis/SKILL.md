@@ -7,7 +7,6 @@ description: >
   that compares a "before" state to an "after" state. Also triggers when someone
   asks "did this launch help", "what changed after we shipped X", or "is this
   getting better or worse".
-version: 0.1.0
 ---
 
 # Feedback Trend Analysis
