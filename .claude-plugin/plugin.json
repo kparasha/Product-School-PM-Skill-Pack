@@ -1,0 +1,9 @@
+{
+  "name": "feedback-intelligence",
+  "version": "0.1.0",
+  "description": "Customer feedback analysis workflows for product managers. 14 commands covering signal detection, prioritization, launch lifecycle, account intelligence, and competitive intel.",
+  "author": {
+    "name": "Enterpret"
+  },
+  "keywords": ["product management", "customer feedback", "analytics", "prioritization", "voice of customer"]
+}
